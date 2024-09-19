@@ -12,5 +12,8 @@
   "dependencies": {
     "@types/npm": "^7.19.3",
     "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
   }
 }

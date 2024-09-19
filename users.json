@@ -1,0 +1,14 @@
+[
+  { "username": "admin", "token": "abcd1234" },
+  { "username": "user1", "token": "xyz7890" },
+  {
+    "token": "d7a89626f3b8a93c55c7482b57fe011b4cf7603ea443ea1f326d38c52ca4e93d56fdf9cb4404bb5345300bd637c50d324c1ca256dce96570ce4a8803af9ef3df",
+    "username": "admin",
+    "password": "admin"
+  },
+  {
+    "token": "7d65f91b59791cb3d0c21a8c88a36cd29f3a049fee5aac042be0a12b15e5044e671de46315e18da70560cc5fc2363fbd8cbcb5c503ac994f08abb4de9ceba45d",
+    "username": "shaban",
+    "password": "1234"
+  }
+]
