@@ -1,0 +1,4 @@
+// 1. Write an Express route that handles a POST request to /login. In this route, extract the username and password from the request body and send a success or failure response.
+// 2. Implement a GET route that responds with JSON data containing details of all users, and another GET route that responds with the details of a single user using URL parameters.
+// 3. Set custom headers in the response of a route that handles file downloads in an Express application. Ensure the file type and size are specified.
+// 4. Write an Express route that accepts a file upload via a POST request, saves the file to the server, and sends a response with the file location.
